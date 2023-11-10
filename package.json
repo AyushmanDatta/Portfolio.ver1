@@ -1,11 +1,11 @@
 {
   "name": "portfolio",
   "version": "4.0.0",
-  "homepage": "https://AyushmanDatta.github.io/Portfolio",
+  "homepage": "https://github.com/AyushmanDatta/Portfolio.ver1",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AyushmanDatta/Portfolio"
+    "url": "https://github.com/AyushmanDatta/Portfolio.ver1"
   },
   "engines": {
     "node": ">=16.x"
