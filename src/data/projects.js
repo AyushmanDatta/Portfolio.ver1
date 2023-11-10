@@ -4,7 +4,7 @@ const data = [
     title: 'Sign Language Translation',
     subtitle: '',
     link: 'https://github.com/AyushmanDatta/Sign-Language-Translation',
-    image: '/images/projects/sign-language-translation.jpeg',
+    image: '/images/projects/Sign-language-translation.jpeg',
     date: '2022-11-20',
     desc:
       "This uses computer vision using openCV and mediapipe as it's base.This ml model has been trained to detect all the alphabets and number from 1-10 in the ASL",
