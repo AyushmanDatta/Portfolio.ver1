@@ -17,7 +17,7 @@ const work = [
     position: 'Software Intern',
     url: '',
     startDate: '2024-01-01',
-    endDate: 'Present',
+    endDate: '2024-04-22',
     summary: '',
     highlights: [
       '•	Involvement in the entire lifecycle of the Reverse Prompt Generator, covering conceptualization to fine-tuning stages.,
@@ -45,8 +45,8 @@ const work = [
     name: 'Netwizard Technologies Pvt. Ltd. West Bengal',
     position: 'Software Intern (Online)',
     url: '',
-    startDate: '2022-010-01',
-    endDate: 'Present',
+    startDate: '2022-10-01',
+    endDate: '2024-04-22',
     summary: 'Netwizard Technologies is an EdTech startup based in Kolkata, West Bengal, India.',
     highlights: [
       'Researched on AUTOML',
@@ -54,7 +54,7 @@ const work = [
       'Conducted Literature survey on Bayesian optimization ',
       'Fabricated websites using React and typescript',
     ],
-  }
+  },
 ];
 
 export default work;
