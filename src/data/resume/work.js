@@ -54,8 +54,7 @@ const work = [
       'Conducted Literature survey on Bayesian optimization ',
       'Fabricated websites using React and typescript',
     ],
-  },
-  
+  }
 ];
 
 export default work;
