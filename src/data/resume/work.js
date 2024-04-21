@@ -12,6 +12,21 @@
  * @property {string[]} highlights - plain text highlights of the position (bulleted list)
  */
 const work = [
+   {
+    name: 'SAMSUNG R&D',
+    position: 'Software Intern',
+    url: '',
+    startDate: '2024-01-01',
+    endDate: 'Present',
+    summary: '',
+    highlights: [
+      '•	Involvement in the entire lifecycle of the Reverse Prompt Generator, covering conceptualization to fine-tuning stages.,
+      '•	Conducting extensive research on existing ideation methods, creative thinking processes, and industry-specific challenges.',
+      '•	Successfully led my team for a smooth operation',
+      '•	Successfully deployed',
+      '•	Rigorous testing conducted, 
+    ],
+  },
   {
     name: 'Calcutta University',
     position: 'Intern',
@@ -27,12 +42,12 @@ const work = [
     ],
   },
   {
-    name: 'Learn Abyte',
-    position: 'Intern',
-    url: 'https://www.learnabyte.com/',
-    startDate: '2022-09-01',
-    endDate: '2023-04-10',
-    summary: 'Learn Abyte is an EdTech startup based in Kolkata, West Bengal, India.',
+    name: 'Netwizard Technologies Pvt. Ltd. West Bengal',
+    position: 'Software Intern (Online)',
+    url: '',
+    startDate: '2022-010-01',
+    endDate: 'Present',
+    summary: 'Netwizard Technologies is an EdTech startup based in Kolkata, West Bengal, India.',
     highlights: [
       'Researched on AUTOML',
       'Developed CNN and RNN using Scikit-Learn',
@@ -40,6 +55,7 @@ const work = [
       'Fabricated websites using React and typescript',
     ],
   },
+  
 ];
 
 export default work;
