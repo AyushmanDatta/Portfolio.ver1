@@ -12,21 +12,6 @@
  * @property {string[]} highlights - plain text highlights of the position (bulleted list)
  */
 const work = [
-   {
-    name: 'SAMSUNG R&D',
-    position: 'Software Intern',
-    url: '',
-    startDate: '2024-01-01',
-    endDate: '2024-04-22',
-    summary: '',
-    highlights: [
-      '•	Involvement in the entire lifecycle of the Reverse Prompt Generator, covering conceptualization to fine-tuning stages.,
-      '•	Conducting extensive research on existing ideation methods, creative thinking processes, and industry-specific challenges.',
-      '•	Successfully led my team for a smooth operation',
-      '•	Successfully deployed',
-      '•	Rigorous testing conducted, 
-    ],
-  },
   {
     name: 'Calcutta University',
     position: 'Intern',
@@ -43,7 +28,7 @@ const work = [
   },
   {
     name: 'Netwizard Technologies Pvt. Ltd. West Bengal',
-    position: 'Software Intern (Online)',
+    position: 'Intern',
     url: '',
     startDate: '2022-10-01',
     endDate: '2024-04-22',
